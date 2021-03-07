@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/churrros/static/css/main.6765dd41.chunk.css",
+    "main.js": "/churrros/static/js/main.3361a5e2.chunk.js",
+    "main.js.map": "/churrros/static/js/main.3361a5e2.chunk.js.map",
+    "runtime-main.js": "/churrros/static/js/runtime-main.ccd333ff.js",
+    "runtime-main.js.map": "/churrros/static/js/runtime-main.ccd333ff.js.map",
+    "static/js/2.1f490f63.chunk.js": "/churrros/static/js/2.1f490f63.chunk.js",
+    "static/js/2.1f490f63.chunk.js.map": "/churrros/static/js/2.1f490f63.chunk.js.map",
+    "static/js/3.c4575fe2.chunk.js": "/churrros/static/js/3.c4575fe2.chunk.js",
+    "static/js/3.c4575fe2.chunk.js.map": "/churrros/static/js/3.c4575fe2.chunk.js.map",
+    "index.html": "/churrros/index.html",
+    "static/css/main.6765dd41.chunk.css.map": "/churrros/static/css/main.6765dd41.chunk.css.map",
+    "static/js/2.1f490f63.chunk.js.LICENSE.txt": "/churrros/static/js/2.1f490f63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd333ff.js",
+    "static/js/2.1f490f63.chunk.js",
+    "static/css/main.6765dd41.chunk.css",
+    "static/js/main.3361a5e2.chunk.js"
+  ]
+}
